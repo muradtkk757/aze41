@@ -1,3 +1,22 @@
-sdsds
- oijsadiojasijd 
-adam getdi 
+Stage 1
+
+git init
+git add .
+git commit -m MenaliAd   ("MenaliAd")
+
+
+Stage 2
+
+git remote add origin _remote_repo_link
+git push -u origin branch_adi
+
+
+git branch: list of branch
+git status: status of repo
+
+git branch_name :crate branch with given name
+git chechout branch_name: chechout to given branc
+
+Stage 3
+
+git merge branch_name: merge given branch to current branch
